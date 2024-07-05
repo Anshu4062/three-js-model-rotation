@@ -1,2 +1,0 @@
-import gsap from "gsap";
-
